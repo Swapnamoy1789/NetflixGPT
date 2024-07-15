@@ -56,15 +56,8 @@ MovieList - Trending
 - Multi-language Feature in our GPT Search page
 - fetched moviesuggestions from tmdb
 - Memoization
-- adding .env file(it didn't worked app is breaking idk)
+- adding .env file
 - Making the site responsive
-
-
-//const gptResults= await openai.chat.completions.create({
- // messages: [{ role: 'user', content: gptQuery }],
- // model: 'gpt-3.5-turbo',
-//});
-//console.log(gptResults.choices);
 
 
 
